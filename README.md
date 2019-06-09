@@ -4,7 +4,7 @@
 
 ![Matrix][matrix-image]
 
-> A script to make matrix effect in your text.
+> A script to create matrix effects in your texts.
 
 # Development
 
