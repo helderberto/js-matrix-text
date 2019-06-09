@@ -31,6 +31,13 @@ $ yarn
 
 [Helder Burato Berto](https://twitter.com/helderburato)
 
+# References
+
+* https://codepen.io/jhongeric-pescador/pen/QRzoZQ
+* https://codepen.io/helderburato/pen/rEBBJq
+* https://codepen.io/weixhen/pen/zwpjGZ
+* https://codepen.io/rlemon/pen/lghzG
+
 # License
 
 [MIT](https://github.com/helderburato/js-matrix-text/blob/master/LICENSE)
