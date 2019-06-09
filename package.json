@@ -1,7 +1,7 @@
 {
   "name": "js-matrix-text",
   "version": "1.0.0",
-  "description": "A script to make matrix effect in your text.",
+  "description": "A script to create matrix effects in your texts.",
   "main": "build/index.js",
   "scripts": {
     "build": "webpack",
