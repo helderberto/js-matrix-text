@@ -4,6 +4,8 @@
   "description": "A script to create matrix effects in your texts.",
   "main": "build/index.js",
   "scripts": {
+    "lint": "eslint src",
+    "lint:fix": "eslint src --fix",
     "build": "webpack",
     "test": "jest",
     "start": "webpack-dev-server"
