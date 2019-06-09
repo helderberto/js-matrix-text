@@ -4,6 +4,8 @@ This is a simple text generator in "matrix" format.
 
 [![License][license-badge]][license-url]
 
+![Matrix][matrix-image]
+
 # Development
 
 * Cloning the repo
@@ -35,3 +37,4 @@ $ yarn
 
 [license-badge]: https://img.shields.io/badge/License-MIT-green.svg
 [license-url]: https://opensource.org/licenses/MIT
+[matrix-image]: matrix.gif
