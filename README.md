@@ -1,10 +1,10 @@
 # Matrix Text
 
-This is a simple text generator in "matrix" format.
-
 [![License][license-badge]][license-url]
 
 ![Matrix][matrix-image]
+
+> A script to make matrix effect in your text.
 
 # Development
 
