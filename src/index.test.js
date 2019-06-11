@@ -10,8 +10,4 @@ describe('JsMatrixText', () => {
   it('should return an instance of JsMatrixText', () => {
     expect(jsMatrixText).toBeInstanceOf(JsMatrixText)
   })
-
-  it('should mouse listener in/out', () => {
-    expect(jsMatrixText.mouseListeners).toBeInstanceOf(Function)
-  })
 })
