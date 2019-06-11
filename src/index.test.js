@@ -4,10 +4,14 @@ describe('JsMatrixText', () => {
   let jsMatrixText
 
   beforeEach(() => {
-    jsMatrixText = new JsMatrixText()
+    jsMatrixText = new JsMatrixText('.js-matrix-text')
   })
 
-  it('should check if instance jsMatrixText exists', () => {
-    expect(jsMatrixText).toBeTruthy()
+  it('should return an instance of JsMatrixText', () => {
+    expect(jsMatrixText).toBeInstanceOf(JsMatrixText)
+  })
+
+  it('should mouse listener in/out', () => {
+    expect(jsMatrixText.mouseListeners).toBeInstanceOf(Function)
   })
 })

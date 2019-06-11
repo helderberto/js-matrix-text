@@ -1,9 +1,13 @@
 export default class JsMatrixText {
-  constructor() {
-    this.init()
+  constructor(element) {
+    if (!element) {
+      throw new Error('Insira um elemento válido!')
+    }
+
+    this.element = document.querySelector(element)
   }
 
-  init = () => {
-    console.log('Started!')
+  mouseListeners = () => {
+    console.log('dasdas')
   }
 }
