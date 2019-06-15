@@ -8,35 +8,28 @@
 
 # Development
 
-* Cloning the repo
+- Cloning the repo
 
 ```bash
 $ git clone https://github.com/helderburato/js-matrix-text.git
 ```
 
-* Installing dependencies
+- Installing dependencies
 
 ```bash
 $ yarn
 ```
 
-* Running scripts
+- Running scripts
 
-| Action                    | Usage          |
-| ------------------------- | -------------- |
-| Starting development mode | `yarn start`    |
-| Linting code              | `yarn lint` |
+| Action                    | Usage        |
+| ------------------------- | ------------ |
+| Starting development mode | `yarn start` |
+| Linting code              | `yarn lint`  |
 
 # Author
 
 [Helder Burato Berto](https://twitter.com/helderburato)
-
-# References
-
-* https://codepen.io/jhongeric-pescador/pen/QRzoZQ
-* https://codepen.io/helderburato/pen/rEBBJq
-* https://codepen.io/weixhen/pen/zwpjGZ
-* https://codepen.io/rlemon/pen/lghzG
 
 # License
 
